@@ -1,0 +1,23 @@
+
+
+.circular{
+    border-radius: 50%;
+}
+body{background-color: #dcf1f7;
+}
+hr{ 
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 50%;
+}
+h1{
+    color: #0C356A;
+}
+h3{
+    color: #0174BE;
+}
+/* img:hover{
+    background-color: green;
+} */
